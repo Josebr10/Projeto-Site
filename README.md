@@ -19,7 +19,8 @@ Este projeto consiste na criação de um site simples utilizando conceitos bási
 
 ## 📷 Preview
 
-em breve...
+*(<img width="938" height="611" alt="Captura de tela_4-5-2026_205354_josebr10 github io" src="https://github.com/user-attachments/assets/8f3642c5-4d3d-45d9-aa77-4bc9fb18ba63" />
+)*
 
 ---
 
