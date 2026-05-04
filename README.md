@@ -1,12 +1,51 @@
-# Projeto-Site
----
-* Projeto de um Site feito no Curso de **Git** e **Github** do Professor Gustavo Guanabara 
+# 🌐 Projeto Site
+
+> Projeto desenvolvido durante o curso de **Git e GitHub** do professor Gustavo Guanabara.
 
 ---
-# Linguagens utulizadas 
+
+## 📌 Sobre o Projeto
+
+Este projeto consiste na criação de um site simples utilizando conceitos básicos de desenvolvimento web, com foco em versionamento de código usando Git e GitHub.
+
 ---
 
-* **HTML5** ( Linguagem de Marcação)
-* **CSS3** (Linguagem de Marcação 
+## 🚀 Tecnologias Utilizadas
 
-Link do Site Hospedado no Git hub👇
+- 🟠 **HTML5** — Estrutura do site  
+- 🔵 **CSS3** — Estilização e layout  
+
+---
+
+## 📷 Preview
+
+em breve...
+
+---
+
+## 🔗 Acesse o Projeto
+
+👉 [Clique aqui para visualizar o site](https://josebr10.github.io/Projeto-Site/)
+
+---
+
+## 📚 Aprendizados
+
+Durante esse projeto, foram praticados:
+
+- Uso de Git e GitHub
+- Criação e estruturação de páginas HTML
+- Estilização com CSS
+- Publicação de site com GitHub Pages
+
+---
+
+## 📌 Status do Projeto
+
+✅ Concluído
+
+---
+
+## ✍️ Autor
+
+Desenvolvido por **José**
